@@ -52,7 +52,7 @@ function App() {
         <Card
           icon={reactLogo}
           width={31}
-          href="https:www.google.com"
+          href="https://google.com"
           title="Google"
           body="Search on Google..."
         />
