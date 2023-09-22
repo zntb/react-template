@@ -49,13 +49,6 @@ function App() {
           title="Vite Documentation"
           body="Learn about Vite & how it can bring you a modern development experience."
         />
-        <Card
-          icon={reactLogo}
-          width={31}
-          href="https://google.com"
-          title="Google"
-          body="Search on Google..."
-        />
       </ul>
     </main >
   )
